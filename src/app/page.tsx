@@ -56,7 +56,7 @@ export default function GitHubProfiles() {
             © 2024 First Commit. MIT License.
           </p>
           <Link
-            href="https://github.com/swaindhruti"
+            href="https://github.com/swaindhruti/First-Commit"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 bg-black text-white px-4 py-2 rounded-md hover:bg-gray-800 transition-colors duration-200"
