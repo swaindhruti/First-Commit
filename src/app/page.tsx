@@ -2,7 +2,7 @@ import Link from 'next/link';
 import { Avatar, AvatarFallback, AvatarImage } from '@/components/ui/avatar';
 import { Card, CardHeader, CardContent } from '@/components/ui/card';
 import { Github } from 'lucide-react';
-import { profiles } from '../../config/UserData';
+import { profiles } from '../config/UserData';
 
 // Function to generate avatar URL
 const getAvatarUrl = (username: string) => {
