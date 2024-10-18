@@ -18,4 +18,10 @@ export const profiles: Profile[] = [
     username: 'AmitBastia',
     bio: 'Open-Source Enthusiast',
   },
+  {
+    id: 3,
+    name: 'Harsh Verma',
+    username: 'Cybrite',
+    bio: 'Frontend developer & Web3',
+  },
 ];
